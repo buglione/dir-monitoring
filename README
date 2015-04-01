@@ -1,2 +1,0 @@
-* Dir Monitoring
-Expose dir content modifications using a daemon for filesystem changes detectetion and a http daemon for content visualization
