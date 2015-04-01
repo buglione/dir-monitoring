@@ -10,9 +10,9 @@ Expose dir content modifications using a daemon for filesystem changes detecteti
 
 Example: 
 
-  ---
-  my $dir = "/home";
-  my $logfile = "/var/log/newfiles.log";
+    ---
+    my $dir = "/home";
+    my $logfile = "/var/log/newfiles.log";
 
 
 * http-daemon.pl
@@ -22,9 +22,9 @@ Example:
 
 Example
 
-  ---
-  my $dir = "/home";
-  ...
-  'LocalPort' => 8888,
-  ...
+    ---
+    my $dir = "/home";
+    ...
+    'LocalPort' => 8888,
+    ...
 
